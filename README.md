@@ -14,6 +14,8 @@ This project is an end-to-end Machine Learning pipeline designed to predict the 
 2. **The Privacy Premium:** Offering a "Shared Room" severely penalizes the nightly rate compared to an "Entire Home".
 3. **Location Multiplier:** Central and historic districts (Westminster, Kensington & Chelsea, City of London) act as massive multipliers on the baseline price.
 
+![Average London Airbnb Prices by Borough](london_map.png)
+
 ## ⚙️ Model Performance
 * Baseline Linear Regression: **58.0% Accuracy**
 * Tuned Random Forest (GridSearchCV): **~66.7% Accuracy**
