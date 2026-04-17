@@ -22,4 +22,4 @@ This project is an end-to-end Machine Learning pipeline designed to predict the 
 * *Note: The ~67% accuracy represents the "data ceiling" for these specific features. Further improvements would require scraping secondary data (e.g., host reviews, interior design image analysis).*
 
 ## 🚀 How to View the Project
-Click on the `Airbnb_Price_Prediction (2).ipynb` file above to view the full code, interactive maps, and step-by-step documentation.
+Click on the `london_airbnb_price_predictor.ipynb` file above to view the full code, interactive maps, and step-by-step documentation.
